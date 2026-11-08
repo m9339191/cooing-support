@@ -23,7 +23,7 @@
       ],
       [
         "문의와 선택적 제공 정보",
-        "지원 문의는 사용자가 이메일 등으로 직접 보내는 경우에만 접수합니다. 아이의 이름·건강 기록·사진이 들어간 백업을 보내지 마세요. TestFlight 피드백이나 진단 자료를 자발적으로 제공하면 Apple의 TestFlight 절차에 따라 개발자가 확인할 수 있습니다. 이 웹사이트를 제공하는 호스팅 서비스는 페이지 전달에 필요한 기술 정보를 자체 정책에 따라 처리할 수 있습니다. 문의 연락처는 페이지 하단에 표시합니다."
+        "지원 문의는 사용자가 이메일 등으로 직접 보내는 경우에만 접수합니다. 아이의 이름·건강 기록·사진이 들어간 백업을 보내지 마세요. TestFlight 베타 테스트에서는 Apple 약관에 따라 충돌 로그·사용 정보와 테스터 이름·이메일 등이 개발자에게 전달됩니다. 사용자가 제출한 피드백도 공유됩니다. 이는 기기에 보관되는 돌봄 기록과 별도의 테스트 절차입니다. 이 웹사이트를 제공하는 호스팅 서비스는 페이지 전달에 필요한 기술 정보를 자체 정책에 따라 처리할 수 있습니다. 문의 연락처는 페이지 하단에 표시합니다."
       ]
     ],
     "support": [
@@ -77,7 +77,7 @@
       ],
       [
         "Contact and voluntary information",
-        "Support information is received only when you choose to send it. Do not send backups containing child names, health records or photos. Voluntary TestFlight feedback and diagnostics may be available to the developer through Apple. This website’s hosting service may process technical information needed to deliver pages under its policies. Contact details appear below."
+        "Support information is received only when you choose to send it. Do not send backups containing child names, health records or photos. During TestFlight beta testing, Apple sends the developer beta crash logs, usage information and tester details such as name and email under its TestFlight terms. Feedback you submit is also shared. This is separate from the device-local care journal. This website’s hosting service may process technical information needed to deliver pages under its policies. Contact details appear below."
       ]
     ],
     "support": [
@@ -131,7 +131,7 @@
       ],
       [
         "お問い合わせと任意の情報提供",
-        "利用者がメールなどで送信した場合にのみ、お問い合わせ情報を受け取ります。お子さまの名前・健康記録・写真を含むバックアップを送らないでください。任意のTestFlightフィードバックや診断情報はAppleの手続きにより開発者が確認できる場合があります。このサイトのホスティング事業者は、ページ配信に必要な技術情報を各社の方針に従って処理する場合があります。連絡先はページ下部に記載しています。"
+        "利用者がメールなどで送信した場合にのみ、お問い合わせ情報を受け取ります。お子さまの名前・健康記録・写真を含むバックアップを送らないでください。TestFlightのベータテストでは、Appleの規約に従い、クラッシュログ、使用状況、テスターの名前やメールアドレスなどが開発者に送られます。送信したフィードバックも共有されます。これは端末内の育児記録とは別のテスト手続きです。このサイトのホスティング事業者は、ページ配信に必要な技術情報を各社の方針に従って処理する場合があります。連絡先はページ下部に記載しています。"
       ]
     ],
     "support": [
@@ -185,7 +185,7 @@
       ],
       [
         "Liên hệ và thông tin tự nguyện",
-        "Thông tin hỗ trợ chỉ được nhận khi bạn chủ động gửi, chẳng hạn qua email. Không gửi bản sao lưu chứa tên, hồ sơ sức khỏe hoặc ảnh của trẻ. Phản hồi và dữ liệu chẩn đoán TestFlight do bạn tự nguyện cung cấp có thể được chuyển cho nhà phát triển qua quy trình của Apple. Nhà cung cấp lưu trữ trang web có thể xử lý thông tin kỹ thuật cần để cung cấp trang theo chính sách riêng. Thông tin liên hệ ở cuối trang."
+        "Thông tin hỗ trợ chỉ được nhận khi bạn chủ động gửi, chẳng hạn qua email. Không gửi bản sao lưu chứa tên, hồ sơ sức khỏe hoặc ảnh của trẻ. Trong thử nghiệm beta qua TestFlight, Apple gửi cho nhà phát triển nhật ký sự cố, thông tin sử dụng và thông tin người thử như tên, email theo điều khoản TestFlight. Phản hồi bạn gửi cũng được chia sẻ. Quy trình thử nghiệm này tách biệt với nhật ký chăm sóc lưu trên thiết bị. Nhà cung cấp lưu trữ trang web có thể xử lý thông tin kỹ thuật cần để cung cấp trang theo chính sách riêng. Thông tin liên hệ ở cuối trang."
       ]
     ],
     "support": [
