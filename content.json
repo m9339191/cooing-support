@@ -29,7 +29,7 @@
     "support": [
       [
         "처음 시작하기",
-        "언어를 고르고 아이 이름·생년월일을 입력한 뒤 예방접종 기준 국가를 직접 확인하면 기록을 시작할 수 있습니다. 언어와 국가는 별도 설정입니다. 설정에서 여러 아이와 기록자를 관리할 수 있습니다."
+        "언어를 고르고 아이 이름·생년월일을 입력한 뒤 건강 안내 기준 국가를 선택하세요. 성장과 예방접종에 해당 국가 기준을 적용하며, 각각 아이 프로필에서 바꿀 수 있습니다. 언어는 기준 국가와 별개입니다."
       ],
       [
         "7일 체험과 평생 이용권",
@@ -44,8 +44,8 @@
         "설정 → 백업 및 복원에서 ZIP을 내보내고 파일에 저장하세요. 실제 파일이 저장됐는지 확인하세요. 복원은 해당 ZIP을 선택하고 미리보기에서 아이와 기록 수를 확인한 후 실행합니다. 복원은 현재 기록을 선택한 백업 상태로 바꿉니다. 복원 전 사본은 기기에 보관됩니다. 백업에는 민감한 건강 기록과 사진이 포함되고 암호화되지 않습니다."
       ],
       [
-        "예방접종과 의료 안내",
-        "기본 일정 비교는 한국 기준만 제공합니다. 다른 국가를 선택하면 지원 범위를 안내합니다. 앱의 안내는 진단이나 개인별 접종 처방이 아닙니다. 실제 일정은 의료진과 공식 보건기관에서 확인하세요."
+        "성장·예방접종과 국가별 기준",
+        "한국·미국·일본·중국·베트남의 국가별 예방접종 참고 일정을 제공합니다. 성장 비교는 한국 2017 성장도표(3세 미만 WHO), 미국 24개월 미만 WHO·이후 CDC, 일본 2023 조사, 중국 WS/T 423–2022, 베트남 WHO 기준을 사용합니다. 각 화면에서 출처와 지원 연령을 확인하세요. 일본·중국 백분위는 공식 표를 보간하며 표 밖 값은 ≤3·≥97로 표시합니다. 진단·접종 처방·따라잡기 일정 판정은 제공하지 않습니다. 실제 접종과 성장 해석은 의료기관·공식 보건기관에서 확인하세요."
       ],
       [
         "문의할 때",
@@ -83,7 +83,7 @@
     "support": [
       [
         "Getting started",
-        "Choose a language, enter a child name and birth date, and explicitly select the vaccination guidance country. Language and country are separate settings. Manage children and recorders in Settings."
+        "Choose an app language, enter the child’s name and birth date, then select the country for health guidance. Growth and vaccination use that country’s references; each can be changed in the child profile. App language is independent of country."
       ],
       [
         "Trial and lifetime purchase",
@@ -98,8 +98,8 @@
         "In Settings → Backup and restore, export a ZIP and save it to Files. Verify that a file was actually saved. Select that ZIP to restore, check the preview and confirm. Restore replaces the journal with the selected snapshot; a pre-restore copy is retained locally. Backups contain sensitive health records and photos and are not encrypted."
       ],
       [
-        "Vaccination information",
-        "Routine schedule comparison currently supports South Korea only. Other countries are identified as unsupported. This reference is not diagnosis or an individual vaccination prescription. Confirm your child’s actual schedule with a clinician and official health authorities."
+        "Growth, vaccination and country references",
+        "Routine vaccination references are available for South Korea, the United States, Japan, China and Vietnam. Growth uses Korea’s 2017 charts (WHO below age 3), WHO below 24 months then CDC in the US, Japan’s 2023 survey, China’s WS/T 423–2022 and WHO in Vietnam. Screens show sources and supported ages. Japanese and Chinese percentiles interpolate published tables; values outside the published band show ≤3 or ≥97. The app does not diagnose, prescribe vaccinations or assess catch-up schedules. Confirm actual vaccination and growth interpretation with clinicians and official health authorities."
       ],
       [
         "Contact support",
@@ -137,7 +137,7 @@
     "support": [
       [
         "はじめに",
-        "言語を選び、お子さまの名前と生年月日を入力し、予防接種の基準となる国を確認して記録を始めます。言語と国は別の設定です。設定画面で複数のお子さまと記録者を管理できます。"
+        "言語とお子さまの名前・生年月日を設定し、健康案内の基準国を選びます。成長・予防接種は選んだ国の基準を使い、プロフィールで個別に変更できます。言語と基準国は別の設定です。"
       ],
       [
         "7日間の体験と無期限利用",
@@ -152,8 +152,8 @@
         "「設定 → バックアップと復元」からZIPを書き出して「ファイル」に保存し、実際にファイルが保存されたことを確認してください。復元時はZIPを選び、プレビューのお子さまと記録数を確認して実行します。現在の記録は選択したバックアップの状態に置き換わり、復元前のコピーは端末内に残ります。バックアップには健康記録と写真が含まれ、暗号化されません。"
       ],
       [
-        "予防接種の参考情報",
-        "基本スケジュールとの比較は韓国のみ対応しています。他の国を選ぶと未対応であることを案内します。これは診断や個人の接種計画の指示ではありません。実際の予定は医療機関と公的保健機関で確認してください。"
+        "成長・予防接種と国別の基準",
+        "韓国・米国・日本・中国・ベトナムの標準接種時期を参照できます。成長は韓国2017曲線（3歳未満はWHO）、米国は24か月未満WHO・以降CDC、日本は令和5年調査、中国はWS/T 423–2022、ベトナムはWHOを使います。画面で出典と対象年齢を確認できます。日本・中国のパーセンタイルは公表表を補間し、表の範囲外は≤3・≥97と表示します。診断・接種の指示・追いつき接種の判定は行いません。実際の接種や成長の解釈は医療機関・公的機関でご確認ください。"
       ],
       [
         "お問い合わせの際に",
@@ -191,7 +191,7 @@
     "support": [
       [
         "Bắt đầu sử dụng",
-        "Chọn ngôn ngữ, nhập tên và ngày sinh của trẻ, sau đó xác nhận quốc gia dùng cho hướng dẫn tiêm chủng để bắt đầu ghi chép. Ngôn ngữ và quốc gia là hai cài đặt riêng. Bạn có thể quản lý nhiều trẻ và người ghi trong Cài đặt."
+        "Chọn ngôn ngữ, nhập tên và ngày sinh của bé rồi chọn quốc gia cho hướng dẫn sức khỏe. Tăng trưởng và tiêm chủng dùng tiêu chuẩn của quốc gia đó; có thể đổi riêng từng mục trong hồ sơ trẻ. Ngôn ngữ độc lập với quốc gia."
       ],
       [
         "Dùng thử 7 ngày và quyền trọn đời",
@@ -206,8 +206,8 @@
         "Trong Cài đặt → Sao lưu và khôi phục, xuất ZIP rồi lưu vào Tệp. Hãy xác nhận tệp thực sự đã được lưu. Chọn ZIP để khôi phục, kiểm tra trẻ và số bản ghi trong bản xem trước rồi xác nhận. Khôi phục thay thế nhật ký bằng bản đã chọn; bản trước khi khôi phục được giữ trên thiết bị. Bản sao lưu chứa dữ liệu sức khỏe nhạy cảm và ảnh, không được mã hóa."
       ],
       [
-        "Thông tin tiêm chủng",
-        "So sánh với lịch tiêm chủng cơ bản hiện chỉ hỗ trợ Hàn Quốc. Các quốc gia khác được ghi rõ là chưa hỗ trợ. Thông tin này không phải chẩn đoán hoặc chỉ định tiêm riêng cho trẻ. Hãy xác nhận lịch thực tế với nhân viên y tế và cơ quan y tế chính thức."
+        "Tăng trưởng, tiêm chủng và tiêu chuẩn quốc gia",
+        "Có lịch tham khảo tiêm chủng cho Hàn Quốc, Hoa Kỳ, Nhật Bản, Trung Quốc và Việt Nam. Tăng trưởng dùng biểu đồ Hàn Quốc 2017 (WHO dưới 3 tuổi), WHO dưới 24 tháng rồi CDC tại Hoa Kỳ, khảo sát Nhật Bản 2023, WS/T 423–2022 tại Trung Quốc và WHO tại Việt Nam. Màn hình hiển thị nguồn và tuổi hỗ trợ. Bách phân vị Nhật Bản, Trung Quốc nội suy bảng công bố; ngoài dải hiển thị ≤3 hoặc ≥97. Ứng dụng không chẩn đoán, chỉ định tiêm hay đánh giá lịch tiêm bù. Xác nhận với cơ sở y tế và cơ quan y tế chính thức."
       ],
       [
         "Khi liên hệ hỗ trợ",
